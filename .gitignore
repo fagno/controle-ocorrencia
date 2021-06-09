@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+#versão jdk
+.idea/.name
+.idea/compiler.xml
+.idea/misc.xml
