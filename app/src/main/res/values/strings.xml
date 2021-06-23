@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">Ocorrencia</string>
+    <string-array name="turmas">
+        <item>52.01</item>
+        <item>62.01</item>
+        <item>62.02</item>
+        <item>62.03</item>
+        <item>62.04</item>
+        <item>62.05</item>
+        <item>72.01</item>
+        <item>72.02</item>
+        <item>72.03</item>
+        <item>82.01</item>
+        <item>82.02</item>
+        <item>82.03</item>
+        <item>92.01</item>
+        <item>92.02</item>
+    </string-array>
+    <string-array name="alunos">
+        <item>Eduard Rosenfield</item>
+        <item>Fina Ragles</item>
+        <item>Dotti Bento</item>
+        <item>Brandi Clubley</item>
+        <item>Linn Gozard</item>
+        <item>Clay Aked</item>
+        <item>Vincents Whettleton</item>
+        <item>Evelyn Capineer</item>
+        <item>Mandi Shakle</item>
+        <item>Chryste Fazackerley</item>
+    </string-array>
+    <string-array name="infracoes">
+        <item></item>
+        <item>Fina Ragles</item>
+        <item>Dotti Bento</item>
+        <item>Brandi Clubley</item>
+        <item>Linn Gozard</item>
+        <item>Clay Aked</item>
+        <item>Vincents Whettleton</item>
+        <item>Evelyn Capineer</item>
+        <item>Mandi Shakle</item>
+        <item>Chryste Fazackerley</item>
+    </string-array>
 </resources>
